@@ -94,9 +94,9 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![exp4](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/015735cd-01cc-4de6-9788-90335aed05cf)
 
-![exp4 1](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/f7b53c6c-c570-42cf-abf1-4d6a3c037a8e)
-
 ![exp4 2](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/a20a1370-0255-4d18-b5b0-200630752ffb)
+
+![exp4 1](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/f7b53c6c-c570-42cf-abf1-4d6a3c037a8e)
 
 
 
