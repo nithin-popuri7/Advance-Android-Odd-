@@ -31,7 +31,6 @@ Program to print the process of runtimepermission in android mobile devices”.
 Developed by:P.Siva Naga Nithin
 Registeration Number :212221240037
 ```
-```
 ## Main Activity.java
 ```
 package com.example.runtimepermission;
