@@ -210,8 +210,6 @@ public class MainActivity extends AppCompatActivity {
 
 ![WhatsApp Image 2023-06-03 at 10 52 40](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/873447a6-4f8f-45a2-9457-353fe7e60ef5)
 
-![WhatsApp Image 2023-06-03 at 10 52 40 (1)](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/f7ab53ff-ceca-4043-9112-31b39431cbf8)
-
 ![1](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/37d9d5f0-b4b5-4f12-b927-c480099b6a26)
 
 ![2](https://github.com/nithin-popuri7/Advance-Android-Odd-/assets/94154780/3972c8b6-3c84-4570-a65b-351151c5887f)
